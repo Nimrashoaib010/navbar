@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    margin-left: 150px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item a.nav-link:hover {
+    color: white;
+}
+
+
+.navbar-nav .nav-item a.nav-link {
+    margin-right: 30px;
+    font-weight: bold;
+}
